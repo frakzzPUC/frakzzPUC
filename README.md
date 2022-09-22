@@ -40,4 +40,3 @@
   <img src="https://profile-counter.glitch.me/F/count.svg?"  />
 </div>
 
-![snake gif](https://github.com/frakzzPUC/frakzzPUC/blob/output/github-contribution-grid-snake.svg)
