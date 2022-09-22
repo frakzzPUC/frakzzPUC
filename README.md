@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Francisco and I'm a Software Engineer  from Brazil</p>
+<p align="left">My name is Francisco and I'm a Software Engineer Student from Brazil</p>
 
 ###
 
