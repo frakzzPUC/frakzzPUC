@@ -30,13 +30,13 @@
 <h2 align="left"> My Social Media</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/francisco-cardoso-de-oliveira-filho-a97557245/" target = "_blank">
+  <a href="https://www.linkedin.com/in/francisco-cardoso-de-oliveira-filho-a97557245/">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="discord.com/channels/6282" target = "_blank">
+  <a href="discord.com/channels/6282">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:francisco.cardoso19@hotmail.com" target ="_blank">
+  <a href="mailto:francisco.cardoso19@hotmail.com">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   
