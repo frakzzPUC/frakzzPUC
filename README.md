@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Sou apaixonado Por Tecnologia<br>📚 Estudo na Pontifícia Universidade Católica de Campinas<br>🎯 Objetives: Um Estágio na Aréa<br>🎲: Estou Aprendendo, HTML, CSS e futuramente JavaScript</p>
+<p align="left">✨ Sou apaixonado Por Tecnologia<br>📚 Estudo na Pontifícia Universidade Católica de Campinas<br>🎯 Objetives: Um Estágio na Area e aprender cada vez mais<br>🎲: Estou Aprendendo, HTML, CSS e futuramente JavaScript</p>
 
 ###
 
