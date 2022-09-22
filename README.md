@@ -48,5 +48,4 @@
   <img src="https://profile-counter.glitch.me/F/count.svg?"  />
 </div>
 
-https://github.com/frakzzPUC/frakzzPUC.git/
 
