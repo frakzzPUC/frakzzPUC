@@ -1,12 +1,52 @@
-- 👋 Olá, sou Francisco Cardoso ou frankzz
-- 👀 Faço Engenharia de Software na PUC Campinas
-- 🌱 Estou iniciando meu primeiro semestre e quero ser um programador 10/10, desejo me especializar em: Python, C#, Java e HTML
-- 💞️ Estou desejando inicialmente a busca por estágio na área, porém meu sonho é Gerenciar Programas e Processos nesse mundo
-- 📫 Estado de São Paulo, Morando em Santa Bárbara D'Oeste, Cursando Faculdade em Campinas
-- 
-''Eu não tenho a intenção de viver mil anos. Se eu viver só por hoje, já está bom.''
--Portgas D. Ace
-<!---
-frakzzPUC/frakzzPUC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="left">Hey 👋</h1>
+
+###
+
+<p align="left">My name is Francisco and I'm a Software Engineer  from Brazil</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Sou apaixonado Por Tecnologia<br>📚 Estudo na Pontifícia Universidade Católica de Campinas<br>🎯 Objetives: Um Estágio na Aréa<br>🎲: Estou Aprendendo, HTML, CSS e futuramente JavaScript</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/F/F/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/F/count.svg?"  />
+</div>
+
+###
+Profile Readme Generator
