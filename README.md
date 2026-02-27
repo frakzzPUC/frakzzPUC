@@ -10,9 +10,10 @@ My name is Francisco and I am a Software Engineering student from Brazil.
 
 <p align="left">
 I am currently in the last year of Software Engineering at Pontifícia Universidade Católica de Campinas (PUC-Campinas).  
-I currently work at Motorola Mobility, where I am gaining hands-on experience in real-world software development.  
+I currently work at Motorola Mobility, gaining hands-on experience in real-world software development and problem solving.
 
-I am passionate about technology, problem-solving, and continuous learning.  
+I am focused on continuous learning, building scalable solutions, and strengthening my technical and analytical skills.  
+
 I am seeking a Junior position as:
 </p>
 
@@ -40,10 +41,21 @@ I am seeking a Junior position as:
 <h2 align="left">Contact</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/francisco-cardoso-de-oliveira-filho-a97557245/" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-cardoso-de-oliveira-filho-a97557245/" 
+     target="_blank" 
+     rel="noopener noreferrer">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:francisco.cardoso19@hotmail.com">
+
+  <a href="mailto:francisco.cardoso19@hotmail.com" 
+     target="_blank" 
+     rel="noopener noreferrer">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="outlook logo" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/F/count.svg?" />
 </div>
